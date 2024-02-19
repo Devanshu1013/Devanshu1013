@@ -1,5 +1,4 @@
 <h1 align="left"> Hello Coders 🖥, I'm Devanshu Prajapati<img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px"></h1>
-<img src="https://komarev.com/ghpvc/?username=Devanshu1013">
 <img align="right" src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif" height="350" />
   🚀 💻 🚀 💻 🚀
 
